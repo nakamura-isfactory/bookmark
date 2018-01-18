@@ -1,0 +1,2 @@
+* bookmark
+- 2018年 [[file:bookmark-y2018.org]]

@@ -1,0 +1,4 @@
+* bookmark-y2018
+** 2018-01-18
+- http://www.publickey1.jp/blog/18/googleapicloud_automl_vision.html
+  - Googleの画像認識APIを基に、好きな画像を学習させて認識機能を簡単にカスタマイズできる「Cloud AutoML Vision」発表 － Publickey
