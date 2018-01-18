@@ -1,6 +1,1 @@
-#+HTML_HEAD: {% feed_meta %}
-
-* bookmark
-- http://nakamura-isfactory.github.com/
-- http://nakamura-isfactory.github.io/
-- 2018年 [[file:bookmark-y2018.org]]
+goto [[file:index.org]]
